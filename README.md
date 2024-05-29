@@ -9,7 +9,7 @@
         > [!TIP]
         > Use Extended Euclidean Algorithm to find d
 
-==> Public Key (e, n)
+==> Public Key (e, n)\n
 ==> Private Key (d, p, q)
 
 ## Encryption
