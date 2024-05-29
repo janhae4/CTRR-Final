@@ -18,7 +18,7 @@ Assume M is message, M is encrypted by Public Key (e, n):<br>
 
 ## Decryption
 M is decrypted by Private Key (d, p, q):<br>
->***(c ^ d) mod (p*q) = M***<br>
+>***(c ^ d) mod (p * q) = M***<br>
 
 ## Example
 **1**. p = 17, q = 23<br>
