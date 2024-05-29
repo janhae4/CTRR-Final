@@ -6,8 +6,8 @@
 **3**. Calculate Ɵ(n) = (p-1) * (q-1)<br>
 **4**. Choose a random number (e) coprime with Ɵ(n) and 1 < e < Ɵ(n)<br>
 **5**. Find d where d * e is congruent to 1 when mod Ɵ(n)<br>
-> [!TIP]
-> Use Extended Euclidean Algorithm to find d
+ > [!TIP]
+ > Use Extended Euclidean Algorithm to find d
  
 > Public Key (e, n)<br>
 > Private Key (d, p, q)<br>
